@@ -9,17 +9,17 @@
 * VS Code
 * Docker
 
-## 1.2 Code
+### 1.2 Code
 
 * HiveBox 앱의 초기 버전으로 시맨틱 버저닝 v0.0.1 사용
 * 현재 앱 버전을 출력하는 함수 작성 (버전만 출력하고 종료)
 
-## 1.3 Containers
+### 1.3 Containers
 
 * 프로젝트용 Dockerfile 작성
 * Docker 이미지 빌드 후 로컬에서 실행
 
-## 1.4 Testing
+### 1.4 Testing
 
 * 로컬에서 앱 컨테이너를 실행하여 올바른 값 반환 확인
 * 애플리케이션 테스트 방법에 대한 문서 제공
