@@ -3,7 +3,11 @@
 * openSenseMap의 환경 센서 데이터를 기반으로 양봉가를 위한 RESTful API Project 입니다.
 * [Dynamic DevOps Roadmap의 End-to-End Project: HiveBox](https://devopsroadmap.io/projects/hivebox/)에서 정리한 DevOps를 위한 프로젝트이며, 여기에 제시된 요구사항 외에도 추가적인 요구사항을 더해 진행한 프로젝트입니다.
 
-## Phase1: 기초 앱 & 컨테이너
+## Phase1: 프로젝트 기반 구축
+
+개발을 시작하기 전에 협업 환경과 프로젝트를 준비한다.
+
+### 1.1 Tools
 
 * Git
 * VS Code
